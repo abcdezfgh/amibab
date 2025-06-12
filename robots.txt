@@ -2,3 +2,7 @@ User-agent: *
 Disallow:
 
 Sitemap: https://lunax.it.com/sitemap.xml
+Sitemap: https://lunax.it.com/firrss.xml
+Sitemap: https://lunax.it.com/newpost.xml
+Sitemap: https://lunax.it.com/otdrss.xml
+Sitemap: https://lunax.it.com/postmap.xml
